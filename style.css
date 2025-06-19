@@ -82,4 +82,8 @@ h3 {
     color: black;
 }
 
-footer {}
+footer {
+    text-align: center;
+    margin-top: 87px;
+    font-family: "Alice";
+}
