@@ -1,0 +1,85 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+#page {
+  width: 1120px;
+  margin-top: 88px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#DescriptionImage {
+    border-bottom: 1px solid #D9D9D9;
+    padding: 30px 0px;
+}
+
+
+.textcenter {
+    text-align: center;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.textHeader {
+    margin: 68px 0;
+}
+
+.headline{
+    font-size: 16px;
+    font-weight: bold;
+    color: #E1624F;
+    text-transform: uppercase;
+}
+
+.editHistoria {
+    color: #0C51A7;
+    margin-bottom: 40px;
+}
+
+.bomPara {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.margin-0 {
+    margin: 0
+}
+
+#lista-casais {
+    color: #591B98;
+}
+
+#lista-familias {
+    color: #0C51A7;
+}
+
+#lista-orçamento {
+    color: #E95E10;
+    margin-bottom: 40px;
+}
+
+#editandoUltimoP {
+    margin-top: 80px;
+}
+
+.cordaBolinha li::marker{
+    color: black;
+}
+
+footer {}
