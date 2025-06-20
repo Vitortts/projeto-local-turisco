@@ -72,10 +72,14 @@ h3 {
 #lista-orçamento {
     color: #E95E10;
     margin-bottom: 40px;
+    border-bottom: 1px solid #D9D9D9;
+    padding: 0px 0px 30px 0px;
+
+
 }
 
 #editandoUltimoP {
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .cordaBolinha li::marker{
@@ -84,6 +88,7 @@ h3 {
 
 footer {
     text-align: center;
-    margin-top: 87px;
+    margin-top: 60px;
     font-family: "Alice";
+    margin-bottom: 40px;
 }
