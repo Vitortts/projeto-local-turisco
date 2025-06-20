@@ -72,13 +72,11 @@ h3 {
 #lista-orçamento {
     color: #E95E10;
     margin-bottom: 40px;
-    border-bottom: 1px solid #D9D9D9;
-    padding: 0px 0px 30px 0px;
-
-
 }
 
 #editandoUltimoP {
+    border-top: 1px solid #D9D9D9;
+    padding: 30px 0px 0px 0px;
     margin-top: 40px;
 }
 
